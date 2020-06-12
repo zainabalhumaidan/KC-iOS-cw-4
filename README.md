@@ -5,7 +5,9 @@
   
  **String**التمرين عباره عن برنامج تدخل اسمك من متغير من  نوع  \
  و سوف يقوم البرنامج بدمج الاسم الي المصفوفه \
-    في مصفوفه**User** لدمج المتغير المأخوذ من ال   **functions** استخدام الدوال  \
+ \
+    في مصفوفه**User** لدمج المتغير المأخوذ من ال   **functions** استخدام الدوال  
+
  
 ### خطوات 
 
@@ -15,10 +17,11 @@
 4. Xcode قم بفتح المشروع بالـ
 5.  **ViewController**قم بالضغط على ملف  
 6. `flagLanguage` و مصفوفة `helloLangauge` ومصفوفه ال `name` عند كتابة الدال يجب يجب ان تمرر الاسم 
-`  func addname (name: String,helloarray : [String], flagarray : [String])` \
+\
+`  func addname (name: String,helloarray : [String], flagarray : [String])` 
 7. `greetingArray` ثم  قم  بحفظ كل عنصر داخل مصفوفه  
-8. **functions**قم باستدعاد ال 
-9. `flagLanguage`و مصفوفة الـ `helloLangauge` يجب ان تمرر و مصفوفه الـ   **functions**عند استدعاد ال
+8. **function**قم باستدعاد ال 
+9. `name`و المتغير `flagLanguage`و مصفوفة الـ `helloLangauge` يجب ان تمرر   مصفوفه الـ   **functions**عند استدعاد ال
 
 
 
