@@ -9,50 +9,52 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var  HelloLangauge = ["اهلا"," Hola "," Bonjour "," Konnichiwa "," Namaste "]
-        var flagLanguage = [" 🇰🇼 "," 🇪🇸  "," 🇫🇷  "," 🇯🇵 "," 🇮🇳 "]
-       var greetingarray : [String] = ["","","","",""]
+     // MARK: - يمكنك اضافه اللغات التي تريدها هنا
+    var  helloLangauge = ["اهلا"," Hola "," Bonjour "," Konnichiwa "," Namaste "]
+    var flagLanguage = [" 🇰🇼 "," 🇪🇸  "," 🇫🇷  "," 🇯🇵 "," 🇮🇳 "]
+     // MARK: - علي كل لغه جديد يجب ان تضيف خانه جديده داخل ال greetingArray
+    var greetingArray : [String] = ["","","","",""]
     
     
-   @IBOutlet weak var NameTextfield: UITextField!
-     @IBOutlet weak var Namelabel: UILabel!
-     
-     @IBAction func Pressbutton(_ sender: Any) {
-          Namelabel.text = ""
+    @IBOutlet weak var NameTextfield: UITextField!
+    @IBOutlet weak var Namelabel: UILabel!
+    
+    @IBAction func Pressbutton(_ sender: Any) {
+        Namelabel.text = ""
         
-         var name = NameTextfield.text!
+        var name = NameTextfield.text!
+        
+        
+        // MARK: -  قم باستدعاء الداله هنا
+        
+        
+        // MARK: -  النهايه⚠️⚠️لا تقم بغير تحت هذا السطر
+        
+        
+        
        
-         
+        // MARK: -  تقوم ب عرض المصفوفه  و اضافه سطر جديد
+        for index in 0..<(greetingArray.count)
+        {
+            
+            Namelabel.text! += greetingArray[index] + "\n"
+            
+        }
         
-         // ناد الداله تحت
-       
-    
-    //النهايه
-         
-        
-        for index in 0..<(greetingarray.count)
-               {
-                 
-                 Namelabel.text! += greetingarray[index] + "\n"
-                  
-               }
-         
         NameTextfield.text = ""
-     }
-
-    // اكتب الداله هنا
-        
-        
-      
-    //النهايه
-
-    
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
+    
+    
+    
+    // MARK: -  قم بكتابة الداله هنا
+    
+    
+    
+    // MARK: -   النهايه⚠️⚠️ لا تقوم بغير تحت هذا السطر
+    
+    
+ 
+    
+    
 }
 
