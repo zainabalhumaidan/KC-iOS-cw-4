@@ -16,7 +16,7 @@
 4.  قم بفتح المشروع بالـ Xcode.
 5.   على جهتك اليسار**ViewController.swift** قم بضغط علي 
 6. قم بكتابة الدالة هنا
-<img src="/methodgif.gif" width="350px">
+<img src="/funcgif.gif" width="350px">
 
 1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-3)
 2. لمجلد الواجب Fork قم بعمل
