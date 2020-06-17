@@ -17,19 +17,13 @@
 5.   على جهتك اليسار**ViewController.swift** قم بضغط علي 
 6. قم بكتابة الدالة هنا
 <img src="/funcgif.gif" width="350px">
+> ملاحظه:  عند كتابة الدالة يجب ان تمرر الاسم  `name` و مصفوفة الـ`helloLangauge` و مصفوفة `flagLanguage`
+< ملاحظه: يمكنك تسميه الداله  كالاتي `  func addname (name: String,helloarray : [String], flagarray : [String])`
 
-1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-3)
-2. لمجلد الواجب Fork قم بعمل
-3. Open in GitHub Desktop قم بفتح الواجب عن طريق 
-4. Xcode قم بفتح المشروع بالـ
-5.  **ViewController**قم بالضغط على ملف  
-6. `flagLanguage` و مصفوفة `helloLangauge` ومصفوفه ال `name` عند كتابة الدال يجب يجب ان تمرر الاسم 
-\
-`  func addname (name: String,helloarray : [String], flagarray : [String])` 
-7. `greetingArray` ثم  قم  بحفظ كل عنصر داخل مصفوفه  
-8. **function**قم باستدعاد ال 
-9. `name`و المتغير `flagLanguage`و مصفوفة الـ `helloLangauge` يجب ان تمرر   مصفوفه الـ   **functions**عند استدعاد ال
+< ثم قم بحفظ كل عنصر داخل مصفوفة `greetingArray`
+7. قم باستدعاء الدالة  هنا 
 
+<img src="/gifcall.gif" width="350px">
 
 
 
