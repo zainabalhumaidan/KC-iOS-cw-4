@@ -15,7 +15,9 @@
 3. قم بفتح الواجب عن طريق Open in GitHub Desktop.
 4.  قم بفتح المشروع بالـ Xcode.
 5.   على جهتك اليسار**ViewController.swift** قم بضغط علي 
-6.
+6. قم بكتابة الدالة هنا
+<img src="/methodgif.gif" width="350px">
+
 1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-3)
 2. لمجلد الواجب Fork قم بعمل
 3. Open in GitHub Desktop قم بفتح الواجب عن طريق 
