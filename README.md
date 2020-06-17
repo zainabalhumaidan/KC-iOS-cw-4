@@ -1,5 +1,5 @@
 
-#
+<div dir="rtl">
  
 # تمارين  - رقم 3
   
@@ -10,6 +10,11 @@
 
  
 ### خطوات 
+1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-3)
+2. قم بعمل Fork لمجلد الواجب
+3. قم بفتح الواجب عن طريق Open in GitHub Desktop.
+4.  قم بفتح المشروع بالـ Xcode.
+5.   على جهتك اليسار**ViewController.swift** قم بضغط علي 
 
 1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-3)
 2. لمجلد الواجب Fork قم بعمل
@@ -33,5 +38,6 @@
 آخر موعد لرفع الكود\
 20/6/2020
 
+</div>
 
 
