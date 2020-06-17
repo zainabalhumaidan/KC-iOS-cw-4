@@ -15,12 +15,16 @@
 3. قم بفتح الواجب عن طريق Open in GitHub Desktop.
 4.  قم بفتح المشروع بالـ Xcode.
 5.   على جهتك اليسار**ViewController.swift** قم بضغط علي 
+
 6. قم بكتابة الدالة هنا
 <img src="/funcgif.gif" width="350px">
-> ملاحظه:  عند كتابة الدالة يجب ان تمرر الاسم  `name` و مصفوفة الـ`helloLangauge` و مصفوفة `flagLanguage`
+
+< ملاحظه:  عند كتابة الدالة يجب ان تمرر الاسم  `name` و مصفوفة الـ`helloLangauge` و مصفوفة `flagLanguage`
+
 < ملاحظه: يمكنك تسميه الداله  كالاتي `  func addname (name: String,helloarray : [String], flagarray : [String])`
 
 < ثم قم بحفظ كل عنصر داخل مصفوفة `greetingArray`
+
 7. قم باستدعاء الدالة  هنا 
 
 <img src="/gifcall.gif" width="350px">
