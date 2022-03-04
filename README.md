@@ -28,7 +28,7 @@ Image("my-favorite-Character").resizable().frame(width: 130, height: 130)
 
 <p dir="rtl">
 
-<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-3">(github link)</a></strong>
+<strong>تمرين</strong>
 </p>
 <p dir="rtl">
  
