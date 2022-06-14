@@ -1,8 +1,116 @@
  
- <h1 align="right">التمرين ١ </h1>
+ <h1 align="right">التمرين 1 </h1>
 
 <p dir="rtl">
-<img src="/cw1.gif" width="200" alt="alt_text" title="image_tooltip">
+في هذا التمرين سنقوم ببناء تطبيق الهاتف </p>
+
+
+
+<p dir="rtl">
+1.  قم بإنشاء مشروع جديد باسم Best Track
+
+<p dir="rtl">
+2. قم بإدراج 4 مسارات في الشاشة  كما هو الشكل التالي
+<p dir="rtl">
+ 
+
+<p dir="rtl">
+<img src="/cw1-1.png" width="200" alt="alt_text" title="image_tooltip">
+</p>
+
+
+
+<p dir="rtl">
+3. عند الضغط على اي مسار يقوم بإظهار ايقونة المسار  مثال: 
+
+<p dir="rtl">
+<img src="/cw1-2.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
+
+
+
+<br>
+
+<p dir="rtl">
+<strong>بونص1✨</strong>:  قم بتغير خلفية النصوص إلى الألوان التالية</p>
+
+
+<p dir="rtl">
+<strong>بونص2✨</strong>:  قم بتغير بعمل الضغطة المطولة على اسم المسارات الأربعة لترجع الصورة إلى علامة الاستفهام</p>
+
+<p dir="rtl">
+<img src="/cw1-3.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
+
+<br>
+<br>
+
+
+
+<p dir="rtl">
+  <h1 align="right">التمرين 2</h1>:</p>
+
+
+<p dir="rtl">
+في هذا التمرين سنقوم بتعلم العمليات الحسابية, قم بإنشاء ملف playground </p>
+
+<p dir="rtl">
+File >new > playground> blank</p>
+
+
+<p dir="rtl">
+1.  قم بإنشاء ثلاث متغيرات </p>
+
+
+
+<p dir="rtl">
+* Name 
+
+<p dir="rtl">
+* birthdayYear
+
+<p dir="rtl">
+* age
+
+<p dir="rtl">
+* في المتغير الذي اسمه age ، قم بعملية حسابية بسيطة لحساب عمرك، من خلال استخدام متغير birthdayYear
+
+<p dir="rtl">
+Hint: current year - birthdayYear
+
+
+<p dir="rtl">
+* قم بطباعة الجملة التالية واستخدم المتغيرات التي قمت بإنشائها مسبقا
+
+<p dir="rtl">
+Hello my name is your name and my age is your age</p>
+
+
+<p dir="rtl">
+2. قم بإنشاء 2 متغيرات:</p>
+
+
+<p dir="rtl">
+الأول من نوع String يحتوي على النص : 8</p>
+
+
+<p dir="rtl">
+الثاني من نوع Int يحتوي على رقم : 4  </p>
+
+
+<p dir="rtl">
+والآن قم بعملية الجمع بين المتغير الأول والثاني وضع النتيجة في متغير ثالث جديد من نوع Double </p>
+
+
+<p dir="rtl">
+Hint: ✨ Casting  ستستخدم 
+
+
+ 
+ <h1 align="right">التمرين 3</h1>
+
+<p dir="rtl">
+<img src="/cw3.gif" width="200" alt="alt_text" title="image_tooltip">
 </p>
 
 <p dir="rtl">
@@ -26,28 +134,3 @@
 
 <br>
 <br>
-<br>
-
- <h1 align="right">التمرين ٢ </h1>
-
-<p dir="rtl">
-<img src="/cw2.gif" width="200" alt="alt_text" title="image_tooltip">
-</p>
-
-<p dir="rtl">
-في هذا التمرين سنقوم ببناء تطبيق حاسبة الأذكار</p>
-
-<p dir="rtl">
-1. قم بإنشاء مشروع جديد
-
-<p dir="rtl">
-2. قم بعمل عدد ٣ أذكار و ٣ عداد للأذكار.
-
-<p dir="rtl">
-3. قم بعمل الكود كما تراه مناسب في صورة التطبيق ، بعد ذلك قم بعمل Extract subview وقم بعمل Binding للمتغيرات.
-
-<p dir="rtl">
-4. حيث أنه عند الضغط على الدائرة فإن العداد سيزيد + ١ لهذا الذكر. 
-
-
-
