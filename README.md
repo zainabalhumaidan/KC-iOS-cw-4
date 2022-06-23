@@ -26,6 +26,8 @@ File >new > playground> blank</p>
 <p dir="rtl">
 * age
 
+<br>
+ <br>
 <p dir="rtl">
 * في المتغير الذي اسمه age ، قم بعملية حسابية بسيطة لحساب عمرك، من خلال استخدام متغير birthdayYear
 
@@ -33,6 +35,8 @@ File >new > playground> blank</p>
 Hint: current year - birthdayYear
 
 
+<br>
+ <br>
 <p dir="rtl">
 * قم بطباعة الجملة التالية واستخدم المتغيرات التي قمت بإنشائها مسبقا
 
@@ -40,8 +44,9 @@ Hint: current year - birthdayYear
 Hello my name is your name and my age is your age</p>
 
 
+<br>
 <p dir="rtl">
-قم بعمل if ، وطباعة ما إذا كان يمكنك المشاركة في مبادرة الكويت تبرمج أو لا، حيث أن من شروط المبادرة أن يكون عمر الطالب من ١٤ إلى ١٨
+* قم بعمل if ، وطباعة ما إذا كان يمكنك المشاركة في مبادرة الكويت تبرمج أو لا، حيث أن من شروط المبادرة أن يكون عمر الطالب من ١٤ إلى ١٨
 <p dir="rtl">
  طباعة : نعم يمكنك المشاركة في الكويت تبرمج -> في حال كان العمر المناسب
 <p dir="rtl">
