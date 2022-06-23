@@ -10,6 +10,7 @@
 <p dir="rtl">
 File >new > playground> blank</p>
 
+<br>
 
 <p dir="rtl">
 1.  قم بإنشاء ثلاث متغيرات </p>
@@ -47,6 +48,8 @@ Hello my name is your name and my age is your age</p>
  طباعة : لايمكنك المشاركة في الكويت تبرمج -> في حال كان العمر غير مناسب
 
 
+<br>
+ <br>
 <p dir="rtl">
 2. قم بإنشاء 2 متغيرات:</p>
 
